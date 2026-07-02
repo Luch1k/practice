@@ -1,0 +1,173 @@
+Лекция 1_ Введение в Java.pdf
+Страниц: 13
+============================================================
+
+--- Страница 1 (OCR) ---
+Java: IlyTb paspaboTunka
+
+Nexus 1: BBeseHue B SKOCUCTeEMY U OCHOBbI A3bIKAa
+
+VA
+
+
+--- Страница 2 (OCR) ---
+UTo TakKoe Java?
+
+UcTOpuaA, COUNOCOCDUA VU MECTO B Mupe IT
+
+
+--- Страница 3 (OCR) ---
+Uctopua u Pusocomua
+
+PosK qeHHe JlereHybI
+
+Java 6biINa pa3paboTaHa J>KevmMcom TOcMHroM B Sun
+Microsystems B 1995 rony. U3HavasIbHO OHA
+npenHa3sHavaslacb AIA ObITOBOU 3NEKTPOHNKU, HO
+Halla CBOe NPU3BaHHe B Bebe.
+
+OCHOBHONU AeBu3: Write Once, Run Anywhere’
+(Hanuwn OAH pa3, 3anycKaii roe yroHo).
+
+
+
+--- Страница 4 (OCR) ---
+Kak paOoraerT Java?
+
+Understand JDK, JRE and JVM
+
+JRE
+
+(save Runtime Environme nt)
+
+JVM
+
+Class Libraries
+
+Compiler
+Debugger
+
+Javadoc
+keytool
+
+em JDK
+
+(es Development xit)
+
+JVM (Java Virtual Machine) — "cepaue"
+CUCTEMbI, UCNONHAHWLUIEe OANT-KOA.
+
+JRE (Runtime Environment) — Ha6op
+OvonnoTeK ANA 3anycka nporpamnM.
+
+JDK (Development Kit) — vHcTpymeHTp! Ans
+CO3faHuA Kosa.
+
+
+--- Страница 5 (OCR) ---
+KJIKOUeBbIe IIDEMMylecTBa
+
+©
+
+te 4"
+
+Bes3olacHoctTb Garbage Collector KpoccitilaT@opMeHHOCTb
+OTcyTCTBNe NpAMOoN ABTOMaTUYeCKOe OMUH VU TOT Ke KOA pabotaeT Ha
+padoTb! C NAMATbIHO VU ynpaBneHue namMatblo: Windows, Linux, macOS u Android.
+cTporan Tunu3auna Java cama yfannet
+
+3ALUMLUAHOT OT TUNUUYHbIX HeEHYKHbIe OObEKTHI.
+
+OLLIUOOK.
+
+
+--- Страница 6 (OCR) ---
+Mac ra6bi TexHOJIOrMK
+
+3 — [ye uctlonb3yertca Java?
+ex DbaHKOBCKMe cucTemMb! (Enterprise)
+lL] Android-npvnoxexua
+VI TT pA (3 Bonbuwiue ganupie u Al
+
+YcTPOUCTB paboTaloT Ha Java
+
+
+
+--- Страница 7 (OCR) ---
+[lepBble Ilaru B Koye
+
+CUHTaKCUC UU CTpyKTypa NporpamMMbI
+
+
+--- Страница 8 (OCR) ---
+IIporpamma ‘Hello World”
+
+Pa36op Koja:
+public class Main { class Main — BCé B Java ABNAeTCA KNaACCOM.
+public static void main(String[] args) {
+System.out.println("Hello, Java!"); main — TO4Ka BXOfa B MporpaMMy.
+
+}
+
+String[] args — napametpbi KomaHAHON
+CTDOKI.
+
+
+
+--- Страница 9 (OCR) ---
+MHCTpyMeHTHbI paspaboTunka
+
+z re »
+
+JDK 17/21 IntelliJ IDEA KOHCOJIb
+YcTaHosBute Long-Term Jlyuwasa IDE Ana Java oT Bal AyYYWnNW Apyr ANA
+Support Bepcuto Ana JetBrains (Community KOMNMNAUNN: javac VU java.
+
+CTa6UNbHON pasoTbl. Edition 6ecnnatHa).
+
+
+--- Страница 10 (OCR) ---
+vin
+
+Java — 9TO OosIbille, 4eM A3bIK
+
+STO OFPOMHOE COOGSLUIECTBO, MUJINOHbI GUGNVOTeEK VU BO3MO)KHOCTb CTPOUTb
+Kapbepy B 1060 TouKe Mupa. CerofHaA BbI CAenanu nepsbiii War.
+
+
+--- Страница 11 (OCR) ---
+UTo Hac *KUeT Aanpiue?
+
+> W DN FF
+
+Bok 1: OCHOBbI U anropuTMb!I (MaccuBbl, MatTpuubl).
+Bnok 2: OObeKTHO-OpveHTUPOBaHHOoOe NpPOrpamMmMuUpoBauve.
+Bnok 3: Pa6ota c faHHbimn (Painbi, Konnekunu, CTPUMbI).
+
+Bok 4: MHOrFOnNOTOYHOCTh VU CbUHAaNU3aLliNA Kypca.
+
+
+--- Страница 12 (OCR) ---
+Botpocpni?
+
+Bal NyTb B Java TOIbKO HaYNHaeTCaA!
+
+fio BcTpeun Ha Cnesyrowen nekuynu!
+
+
+--- Страница 13 (OCR) ---
+Image Sources
+
+https://4kwallpapers.com/images/wallpapers/java-logo-640x1136-15990.png
+
+Source: 4kwallpapers.com
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcS67eDmvf7MW8JXMWvOljTtZ8kX8uiEzp_6qmk27XT4ExkOv53S_acsnR26SkALyPNZpBzn52V-e2imEBYcYOgD
+a63zi53xup6wQlgMoJ 9fUmnLN2EUfHv57t23 bp8qtOZ3DMXnicp-4/s1280/Java+JDK+JRE+and+JVM.png
+
+source: www.javaguides.net
+
+https://png.pngtree.com/background/20250716/original/pngtree-laptop-with-code-displayed-on-screen-illuminated-by-blue-light-creating-picture-image_16714923.jpg
+
+Source: pngtree.com
+
+
